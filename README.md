@@ -16,3 +16,9 @@ Install the images of the container specified in the file or it will download an
 After setting up the environment run file using commad, "docker-compose.yml up". This will also show the runtime logs of the container.
 
 To run the file without showing logs use command, "docker-compose.yml up -d" in detatch mode.
+
+In just one go this will install nginx web server.
+
+You can check it by hitting http://host-ip:8082
+
+Further development and integration is in process.
